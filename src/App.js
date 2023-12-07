@@ -1,5 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import GiphyViewer from "./components/GiphyViewer";
+import './assets/app.css';
 
 const App = () => {
 
